@@ -23,7 +23,7 @@ import javafx.scene.Cursor;
 
 public class HelloApplication extends Application {
 
-    private static final String API_KEY = "99f1f0cb2b36daaaaec4053e2cd0be88";
+    private static final String API_KEY = "YOUR_API_KEY";
     private static final String API_URL = "https://api.openweathermap.org/data/2.5/weather?q=%s&appid=%s";
 
     private TextField cityInput;
